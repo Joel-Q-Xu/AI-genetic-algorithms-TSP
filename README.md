@@ -5,5 +5,5 @@
 可指定起点，实现可视化<br>
 ![](https://github.com/Joel-Q-Xu/AI-genetic-algorithms-TSP/blob/master/image/1.jpg)<br>
 1.2 增添UI界面，增添选择部分城市功能，优化地图展现，增添城市名和路径顺序<br>
-![](https://github.com/Joel-Q-Xu/AI-genetic-algorithms-TSP/blob/master/image/1.jpg.png)<br>
-![](https://github.com/Joel-Q-Xu/AI-genetic-algorithms-TSP/blob/master/image/1.jpg.png)<br>
+![](https://github.com/Joel-Q-Xu/AI-genetic-algorithms-TSP/blob/master/image/2.jpg.png)<br>
+![](https://github.com/Joel-Q-Xu/AI-genetic-algorithms-TSP/blob/master/image/3.jpg.png)<br>
